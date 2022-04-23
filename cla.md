@@ -111,7 +111,7 @@ Contributions.
 I hereby agree to the terms of the Contributor License Agreement.
 
 - Your Full name: 
-- Email addresss: 
+- Email address: 
 - GitHub Username: 
 -  Country: 
 -  City: 
