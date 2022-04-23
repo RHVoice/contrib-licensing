@@ -44,8 +44,8 @@ Where XXX can be one of the following SPDX identifiers:
 
 Rather than accompany each new pull request with the license
 statement, or if you don't want to license your contribution under a
-general permissive license, you can agree to my [Contributor License
-Agreement](cla.md]).
+general permissive license, you can agree to my
+[Contributor License Agreement](cla.md).
 
 1. Read the [Agreement](cla.md).
 
