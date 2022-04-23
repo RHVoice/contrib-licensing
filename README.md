@@ -4,9 +4,11 @@ This is a request to present and future contributors from Olga
 Yakovleva, the creator of RHVoice, developer of the core code and
 primary maintainer of the RHVoice project.
 
-Further to the announcement in #556 of my desire to try an "Open Core"
-model, here I've set out a process for how I would like to obtain
-additional permissions, where necessary, to use your contributions.
+Further to the announcement in
+[#556](https://github.com/RHVoice/RHVoice/discussions/556) of my
+desire to try an "Open Core" model, here I've set out a process for
+how I would like to obtain additional permissions, where necessary, to
+use your contributions.
 
 I wish to ask for additional permissions for code or other content
 which may become a part of a runtime application.
@@ -58,6 +60,7 @@ Agreement](cla.md]).
    made public anywhere, but just kept by me.
 
 5. Confirm that you have signed the C.L.A. in a comment to your pull
-   request or in #556, also stating the date of the signing in that
-   comment. This step will allow me to be sure that the email has
-   really come from you.
+   request or in
+   [#556](https://github.com/RHVoice/RHVoice/discussions/556), also
+   stating the date of the signing in that comment. This step will
+   allow me to be sure that the email has really come from you.
